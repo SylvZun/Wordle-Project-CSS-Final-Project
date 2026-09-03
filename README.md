@@ -1,13 +1,13 @@
-### Computational Social Science - Final Project - Summer 2026
+## Computational Social Science - Final Project - Summer 2026
 This is Sylvia Zuniga's final project where she tries to find what is the a good starting word for Wordle.
 
-#### What is Wordle?
+### What is Wordle?
 According to the Wikipedea: 
 
 "Wordle is a web-based word game... In the game, players have six attempts to guess a five-letter word, receiving feedback through colored tiles that indicate correct letters and their placement. A single puzzle is released daily, with all players attempting to solve the same word."
 
 
-#### What makes a starting word GOOD?
+### What makes a starting word GOOD?
 The goal is not for the starting word to be the BEST. 
 
 We define BEST: a starting word that gets the target word on the first try. 
