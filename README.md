@@ -10,7 +10,7 @@ According to the Wikipedea:
 ### What makes a starting word GOOD?
 The goal is not for the starting word to be the BEST. 
 
-Fefine BEST: a starting word that gets the target word on the first try. 
+Define BEST: a starting word that gets the target word on the first try. 
 
 However, that starting word cannot be the best again the next day since Wordle changes the word everyday. Therefore, instead of looking for the BEST starting word, we are seeing if the choosen starting word is  a *good* starting word.
 
